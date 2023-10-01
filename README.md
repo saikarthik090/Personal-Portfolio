@@ -3,6 +3,9 @@
 # Personal Portfolio
 This is my personal portfolio website where i shared my skills,projects etc..
 
+# Screenshots
+![image](https://github.com/saikarthik090/Personal-Portfolio/assets/143206816/1058fdf7-4e76-4622-81f9-f978b613811a)
+
 
 ## Demo
 
